@@ -141,7 +141,7 @@ body {
       rgba(var(--overlay-rgb), var(--overlay-opacity)),
       rgba(var(--overlay-rgb), var(--overlay-opacity))
     ),
-    url("YOUR-IMAGE-URL-HERE");   /* placeholder — replace with the image URL to be provided */
+    url("http://personaljusticeattorney.com/images/halls-of-justice.jpg");   /* placeholder — replace with the image URL to be provided */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -156,14 +156,14 @@ body {
 }
 }
 .section-parallax-info1 {
-  --overlay-rgb: 40, 78, 132;     /* overlay color as R, G, B — the sample's mid blue band #284e84 */
+  --overlay-rgb: 255, 255, 255;     /* overlay color as R, G, B — the sample's mid blue band #284e84 */
   --overlay-opacity: 0.75;        /* overlay strength */
   background-image:
     linear-gradient(
       rgba(var(--overlay-rgb), var(--overlay-opacity)),
       rgba(var(--overlay-rgb), var(--overlay-opacity))
     ),
-    url("YOUR-IMAGE-URL-HERE-2");   /* placeholder — replace with the image URL to be provided */
+    url("http://personaljusticeattorney.com/images/scales-of-justice.jpg");   /* placeholder — replace with the image URL to be provided */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

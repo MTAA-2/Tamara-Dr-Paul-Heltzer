@@ -135,7 +135,7 @@ body {
    and a color overlay. Adjust --overlay-opacity: 0 = no tint, 1 = solid color. */
 .section-parallax {
   --overlay-rgb: 40, 78, 132;     /* overlay color as R, G, B — the sample's mid blue band #284e84 */
-  --overlay-opacity: 0.75;        /* overlay strength */
+  --overlay-opacity: 0.85;        /* overlay strength */
   background-image:
     linear-gradient(
       rgba(var(--overlay-rgb), var(--overlay-opacity)),

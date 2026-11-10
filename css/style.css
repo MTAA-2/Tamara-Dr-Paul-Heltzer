@@ -157,7 +157,7 @@ body {
 }
 .section-parallax-info1 {
   --overlay-rgb: 255, 255, 255;     /* overlay color as R, G, B — the sample's mid blue band #284e84 */
-  --overlay-opacity: 0.75;        /* overlay strength */
+  --overlay-opacity: 0.82;        /* overlay strength */
   background-image:
     linear-gradient(
       rgba(var(--overlay-rgb), var(--overlay-opacity)),

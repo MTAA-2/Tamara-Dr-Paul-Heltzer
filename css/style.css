@@ -262,8 +262,8 @@ body {
   border-radius: var(--radius);
   padding: 24px;
 }
-.card-title { color: #fff; font-size: 19px; margin: 0 0 8px; }
-.card p { margin: 0; color: #d9d9d9; font-size: 15px; }
+.card-title { color: var(--navy-3); font-size: 19px; margin: 0 0 8px; }
+.card p { margin: 0; color: var(--navy-3); font-size: 15px; }
 
 /* ---------- Qualifier list ---------- */
 
